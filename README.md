@@ -27,4 +27,4 @@ If you wish to use the repository, use your own token. I am not providing LepakS
 6. Open Telegram, find your bot, and send a command or message to receive place recommendations
 
 ## 🖼️ Preview
-![Image](https://github.com/user-attachments/assets/e2b483ae-8654-4740-a459-d73aa5d6cc32)
+![Image](https://github.com/user-attachments/assets/c3c4ffa0-1694-4993-b769-4565e958d3ca)
