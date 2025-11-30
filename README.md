@@ -25,3 +25,6 @@ If you wish to use the repository, use your own token. I am not providing LepakS
 4. Add the token to your configuration file or environment variable
 5. Run the bot: python main_telegram.py
 6. Open Telegram, find your bot, and send a command or message to receive place recommendations
+
+## 🖼️ Preview
+![Image](https://github.com/user-attachments/assets/e2b483ae-8654-4740-a459-d73aa5d6cc32)
